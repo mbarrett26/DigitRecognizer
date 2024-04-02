@@ -1,5 +1,5 @@
 # Digit Recognizer
-text
+The Digit Recognizer is an application that utilizes machine learning algorithms to recognize hand-written digits. It leverages a dataset stored in CSV format, containing both training and testing data, to train and evaluate its models.
 
 ## Contributors
 - Mithusan Arulampalam
@@ -9,7 +9,7 @@ text
 
 
 ## Installation
-Before proceeding with the installation please ensure that you have at least Java 11 on your machine
+Before proceeding with the installation please ensure that you have Python on your machine
 To get started with the app, follow these steps:
 
 Open the terminal and use the git clone command to download the remote GitHub repository to your computer:
@@ -19,7 +19,7 @@ git clone https://github.com/Mithusan/Digit-Recognizer.git
 It will create a new folder with the same name as the GitHub repository "Digit-Recognizer". All the project files and git data will be cloned into it.
 
 
-## Required Packages
+### Required Packages
 Make sure you have the following Python packages installed before running the Digit Recognizer Application:
 <br/>
 - **numpy**: A powerful package for numerical computing in Python.
@@ -38,12 +38,4 @@ Make sure you have the following Python packages installed before running the Di
   ```bash
   pip install matplotlib
 These packages are essential for running the Digit Recognizer Application and ensuring smooth execution of the code.
-
-## Usage
-1. Navigate to the directory where you cloned the repository:
-```
-cd Digit-Recognizer
-```
-
-
 
