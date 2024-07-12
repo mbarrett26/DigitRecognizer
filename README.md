@@ -5,7 +5,7 @@ The Digit Recognizer is an application that utilizes machine learning algorithms
 - Mithusan Arulampalam
 - Banujan Sutheswaran
 - Nathan Hacault
-- Micheal Barrett.
+- Michael Barrett.
 
 
 ## Installation
